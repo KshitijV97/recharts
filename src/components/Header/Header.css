@@ -21,7 +21,7 @@ label {
 	color: black;
 	font-size: 35px;
 	line-height: 80px;
-	padding: 0 100px;
+	padding: 0 5vw;
 	font-weight: bold;
 }
 
@@ -33,4 +33,11 @@ nav ul {
 nav ul li {
 	display: inline;
 	line-height: 80px;
+	margin: 0 5px;
+}
+
+nav ul li a {
+	text-decoration: none;
+	font-size: 17px;
+	text-transform: uppercase;
 }
